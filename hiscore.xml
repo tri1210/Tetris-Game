@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<score>
+	<item>
+		<nguoichoi>Zer0</nguoichoi>
+		<diem>30200</diem>
+	</item>
+	<item>
+		<nguoichoi>tinh</nguoichoi>
+		<diem>11200</diem>
+	</item>
+	<item>
+		<nguoichoi>nguyen tinh</nguoichoi>
+		<diem>1200</diem>
+	</item>
+	<item>
+		<nguoichoi>Kim Long</nguoichoi>
+		<diem>1100</diem>
+	</item>
+	<item>
+		<nguoichoi>sin bat</nguoichoi>
+		<diem>1000</diem>
+	</item>
+
+</score>

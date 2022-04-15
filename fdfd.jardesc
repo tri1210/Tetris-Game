@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Nguyen Tinh/Desktop/A_T_new1/A3.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/gameTetris/fdfd.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="true" useSourceFolders="true"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=gameTetris/src&lt;gameTetris{Programe.java[Programe" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <file path="/gameTetris/mhelp.png"/>
+        <file path="/gameTetris/mexit.png"/>
+        <file path="/gameTetris/mtetris.png"/>
+        <file path="/gameTetris/lashtetris.png"/>
+        <file path="/gameTetris/.project"/>
+        <file path="/gameTetris/mpause.png"/>
+        <file path="/gameTetris/iconimage.png"/>
+        <file path="/gameTetris/mhiscore.png"/>
+        <javaElement handleIdentifier="=gameTetris/src"/>
+        <file path="/gameTetris/hiscore.xml"/>
+        <file path="/gameTetris/mrestart.png"/>
+        <file path="/gameTetris/.classpath"/>
+        <file path="/gameTetris/mabout.png"/>
+    </selectedElements>
+</jardesc>
